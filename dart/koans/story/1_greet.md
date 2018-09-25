@@ -1,8 +1,6 @@
 # 1. Greet
 
-You are Alice or Bob (whoever you choose will represent your character) and you are online friends who are out to meet each other for the first time.
-
-You see one another at the decided meeting point.
+You are Alice or Bob (whoever you choose will represent your character) and you stumble into each other online.
 
 To begin with, greet the other!
 

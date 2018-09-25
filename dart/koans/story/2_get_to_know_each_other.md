@@ -1,8 +1,8 @@
-# 2. Getting to know each other
+# 2. Get to know each other
 
-Now that the two of you have met, you realize that you are not aliens from another planet, nor are you robots from the future, you realize that you are both humans! As a result you decide to alter your notions of what you really are.
+Now that the two of you have greeted each other, why don't you tell each other your names!
 
 ## Steps
 
-1. Create a class called `Human` in the `people` folder in a file named `human.dart`.
-2. Now inherit this class in both `Bob` and `Alice` classes, as you have come to a conclusion that they are both human.
+1. Create a `const String` variable called `_name` in both of the classes.
+2. Now create a method called `sayName` which prints `My name is {_name}`.

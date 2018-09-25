@@ -1,4 +1,4 @@
-# 3. Ask them out
+# 4. Ask them out
 
 While conversing, you suddenly realize that you would like to get to know them even better. So summoning your courage, you decide to ask the other out.
 
@@ -10,6 +10,5 @@ Good luck!
 
 ## Steps
 
-1. Implement a mixin called `Thinking` on the other's class.
-2. If you are Alice, create a method called `askOut` in Bob's class. Do the opposite if you chose Bob.
-3. Now call the mixin's method `thinkAboutIt` from the method that you just created.
+1. Implement a mixin called `BeingAskedOutAction` on the other's class.
+2. Now call the mixin's method `askOut`.
