@@ -7,7 +7,7 @@ optionalPositionalParameters([int n = 10]) {
 }
 
 optionalParameters({int length}) {
-  print(List.generate(length ?? 20, (int index) => index));
+  ordinaryFunction(length ?? 20);
 }
 
 main(List<String> args) {
