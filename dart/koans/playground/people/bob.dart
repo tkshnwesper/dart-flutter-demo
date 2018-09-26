@@ -1,5 +1,5 @@
 class Bob {
   void greet() {
-    print('Bob greets Alice!');
+    print('Bob says hi!');
   }
 }
