@@ -15,4 +15,5 @@ Good luck!
 
 ## Things you will learn
 
-1. Mixins in Dart
+1. Using mixins in Dart
+2. Using `async` and `await`
