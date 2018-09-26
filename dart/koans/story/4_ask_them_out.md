@@ -12,3 +12,7 @@ Good luck!
 
 1. Implement a mixin called `BeingAskedOutAction` on the other's class.
 2. Now call the mixin's method `askOut`.
+
+## Things you will learn
+
+1. Mixins in Dart

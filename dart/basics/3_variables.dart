@@ -7,7 +7,7 @@ main(List<String> args) {
 
   final oranges = 'oranges';
   print("final: ${oranges}");
-  
+
   /* The following will throw an error because final variables cannot be assigned again */
   // oranges = 'apples';
 
