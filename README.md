@@ -11,6 +11,8 @@ $ brew install dart --devel
 # Will install dart
 ```
 
+You might also want to install a Dart plugin for your favourite editor.
+
 ### How to run a dart program
 
 ```sh
@@ -24,6 +26,8 @@ $ dart <filename>
 ### Installing flutter
 
 [Installation instructions](https://flutter.io/setup-macos/)
+
+You will be able to find an officially supported plugin for **Visual Studio Code**, **Intellij IDEA**, **WebStorm** and **Android Studio**.
 
 ### Creating a new flutter project
 
@@ -65,4 +69,3 @@ Usage: flutter create <output directory>
 -i, --ios-language             [objc (default), swift]
 -a, --android-language         [java (default), kotlin]
 ```
-
